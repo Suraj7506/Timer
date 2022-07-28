@@ -27,7 +27,7 @@ export class HomeComponent implements OnInit {
   
   setTimeout(()=>{
     this.emet = !this.emet
-  },10000)
+  },60000)
 
 
 
